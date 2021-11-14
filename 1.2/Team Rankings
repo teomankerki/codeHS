@@ -23,13 +23,13 @@ public class TeamRanks
 		String temp4 = team5;
 		String temp5 = team3;
 
-        team2 = team6;
-        team3 = team8;
+    team2 = team6;
+    team3 = team8;
 		team4 = team10;
 		team5 = temp3;
 		team6 = temp4;
 		team8 = team9;
-	    team9 = temp5;
+	  team9 = temp5;
 		team10 = temp1;
 
 		/*
